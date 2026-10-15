@@ -16,7 +16,7 @@ The current implementation accepts a **16-bit input**, processes it using CRC po
 
 The project targets the **Digilent Nexys 4 DDR FPGA development board**, which uses the Xilinx Artix-7 FPGA.
 
-> **Note:** This repository currently demonstrates a basic combinational CRC calculation and behavioral simulation. It does not yet claim to reproduce the complete high-speed architecture from the reference research paper.
+
 
 ---
 

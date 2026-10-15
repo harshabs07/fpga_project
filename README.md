@@ -52,7 +52,7 @@ These are the lower 16-bit outputs reported by the current simulation. Full 32-b
 
 ### 1. Behavioral Simulation Waveform — Part 1
 
-![Simulation Waveform Part 1](screenshots/868488e2-5320-493c-b85a-ebbbb9cd512a.jpg)
+![Simulation Waveform Part 1](screenshots/9cf1ae2b-240e-4a06-8892-8cea7fa54361.jpg)
 
 ### 2. Behavioral Simulation Waveform — Part 2
 

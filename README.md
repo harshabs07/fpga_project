@@ -56,7 +56,7 @@ These are the lower 16-bit outputs reported by the current simulation. Full 32-b
 
 ### 2. Behavioral Simulation Waveform — Part 2
 
-![Simulation Waveform Part 2](screenshots/f822c736-7df9-4df8-a3dd-3ca5d658a495.jpg)
+![Simulation Waveform Part 2](screenshots/b5d1b72b-3240-4172-852f-d259aca27831.jpg)
 
 ### 3. Tcl Console Output
 

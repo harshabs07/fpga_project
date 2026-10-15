@@ -9,7 +9,6 @@ CRC (Cyclic Redundancy Check) is an error-detection technique used to detect acc
 
 The idea for this project was inspired by the research paper **"A High-Speed CRC-32 Implementation on FPGA."** I referred to this paper to understand FPGA-based CRC-32 implementation and use it as a starting point for my project.
 
-**Note:** The current implementation is a basic combinational CRC calculation. It does not yet reproduce the complete high-speed architecture described in the paper.
 
 ## Tools and Technologies
 
